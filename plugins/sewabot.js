@@ -16,32 +16,33 @@ let ppm = '35'
 let ri = '25'
 let pk = '30'
 let info = `
-╭━━━━「 *SEWA* 」
-┊⫹⫺ *Hemat:* _${sh}k/grup (7 Hari)_
-┊⫹⫺ *Normal:* _${sn}k/grup (1 bulan)_                                         
-┊⫹⫺ *permanen:* = _${sv}k/grup (unlimited)_
-╰═┅═━––––––๑
-
-╭━━━━「 *PREMIUM* 」
-┊⫹⫺ *Hemat:* _${ph}k (7 Hari)_
-┊⫹⫺ *Normal:* _${pn}k (1 bulan)_                                       
-┊⫹⫺ *Permanent:* = _${ppm}k (Unlimited)_
-╰═┅═━––––––๑
-╭━━━━「 *PERPANJANG SEWA* 」
-┊⫹⫺ *Hemat:* _3k (7 Hari)_
-┊⫹⫺ *Normal:* _6k (1 bulan)_                                       
-╰═┅═━––––––๑
-╭━━━━「 *PERPANJANG PREMIUM* 」
-┊⫹⫺ *Hemat:* _3k (7 Hari)_
-┊⫹⫺ *Normal:* _6k (1 bulan)_                                       
-╰═┅═━––––––๑
-╭━━━━「 *JASARUN* 」
-┊⫹⫺ *Hemat:* _${ri}k (7 Hari)_
-┊⫹⫺ *Normal:* _${pk}k (1 bulan)_                                       
-╰═┅═━––––––๑
+𝖖𝖞𝖑𝖊𝖓𝖘𝖊𝖒𝖇𝖔𝖙𝖟
+ *• SEWA BOT & UP TO PREMIUM •*
+        
+╭─「 SEWABOT • 」
+│ • Maxis [ 0177302593 ] 
+│ • Umobile  [PM OWNER]
+│ • Celcom  [PM OWNER]
+│ • Digi  [PM OWNER]
+╰────
+╭─「 *BASIC PRICE* 」
+│ > 1 Minggu - RM 3:00 / 4 Group
+│ > 3 Minggu - RM 5:00 / 6 Group
+│ > Unlimited  - RM 11:00 / Unlimited Group
+│ 
+╰────
+╭─「 *PREMIUM PRICE* 」
+│ > 1 Minggu - RM 7:00 / 6 Group
+│ > 3 Minggu - RM 9:00 / 10 Group
+│ > Unlimited - RM 15:00 / Unlimited Group 
+│ 
+╰────
+wa.me/60177302593
+*Bukan Bot!!!*
+*Owner 𝖖𝖞𝖑𝖊𝖓𝖘𝖊𝖒𝖇𝖔𝖙𝖟*
 ༅ _*FITUR BOT*
 
-✧ *Virtex Menu✅*
+✧ *Group Menu✅*
 ✧ *Menu Keren✅*
 ✧ *Anti Link✅*
 ✧ *Button Menu✅*
@@ -53,10 +54,10 @@ let info = `
 _Total Fitur:_ 570++
 
 *⫹⫺ PAYMENT:*
-• *Dana:*
-• *Gopay:*
-• *Ovo:*
-• *QRIS*
+• *Maxis:*
+• *Celcom:*
+• *Digi:*
+• *TnG*
 • *ALL PAYMENT*
 –––––– *🐾 Kebijakan* ––––––
 🗣️: Kak, Kok harganya mahal banget?
